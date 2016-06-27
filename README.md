@@ -1,5 +1,5 @@
-# Le Repo de la promo-4
+## Exercice - Intégration ##
 
-## Contribute to this repo ##
-Help us keep the Simplon Community open and inclusive. Please read and follow our [Code of Conduct]
-#### License ####
+Réaliser une landing page à partir de ce modèle :
+
+![alt text](https://github.com/CecileCee/promo-4/blob/master/images/landingpage-model.png "Modèle de landing page")
