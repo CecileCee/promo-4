@@ -1,0 +1,50 @@
+/* ////////////////////////// GAUCHE */
+
+body {
+    margin: 0;
+}
+
+#gauche {
+    background-image: url("../images/mer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 50%;
+    height: 100vh;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 30pt;
+}
+
+#cadre {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: white;
+    width: 70%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    /*padding: 15px;*/
+    margin: 120px auto;
+}
+
+
+/* ////////////////////////// DROITE */
+#droite {    
+    float: right;
+    width: 42%;
+    padding: 40px 40px 0px 40px;
+}
+
+.description {
+    font-family: 'Roboto', sans-serif;
+}
+
+#bouton {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
